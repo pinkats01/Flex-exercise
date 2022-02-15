@@ -1,2 +1,2 @@
-# Flex-exercise
-practice flex tool and try to build Odin exercise from scratch
+# git-branches
+I tried to use different branches 
